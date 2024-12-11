@@ -3,8 +3,7 @@ import java.util.Scanner;
 public class HolaMundo {
 
 	public static void main(String[] args) {
-		//Lo que hace este programa solo te pide el nombre para luego
-		//Darte la bienvenida con el nombre que tu mismo le has puesto
+		//Lo que hace el programa es solo añadir tu nombre y luego lo ejecuta una bienvenida con el nombre ya puesto
 		Scanner scanner = new Scanner(System.in);
 		System.out.print("Ingresa tu nombre: ");
 		String nombre = scanner.nextLine();
