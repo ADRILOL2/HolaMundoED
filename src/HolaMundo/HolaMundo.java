@@ -10,6 +10,6 @@ public class HolaMundo {
 		System.out.print("Ingresa tu nombre: ");
 		String nombre = scanner.nextLine();
 		System.out.println("¡Hola, " + nombre + "! Bienvenido a Java.");
-		
+		//Este cambio se realiza desde github
 	}
 }
