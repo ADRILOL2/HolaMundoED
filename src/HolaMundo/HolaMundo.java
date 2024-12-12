@@ -4,6 +4,7 @@ public class HolaMundo {
 
 	public static void main(String[] args) {
 		//Cambio realizado desde rama Desarrollo
+		//Comentario después de realizar fusión
 
 		Scanner scanner = new Scanner(System.in);
 		System.out.print("Ingresa tu nombre: ");
